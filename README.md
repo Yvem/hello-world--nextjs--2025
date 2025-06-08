@@ -2,6 +2,10 @@
 
 https://nextjs.org/
 
+NOT OPEN! cf. https://opennext.js.org/
+
+## example
+
 from https://nextjs.org/learn/dashboard-app
 
 ```md
